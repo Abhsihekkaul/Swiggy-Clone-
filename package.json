@@ -4,7 +4,7 @@
   "description": "Made a Complete Frontend Swiggy Clone Application",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "parcel index.html"
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,9 @@
     "parcel": "^2.14.4"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.0.17",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.0.17"
   }
 }
