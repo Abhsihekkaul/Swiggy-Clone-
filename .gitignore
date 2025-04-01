@@ -1,4 +1,4 @@
-.parcel-cache
-node_modules
-dist
-*.log   
+.parcel-cache/
+node_modules/
+dist/
+*.logg
