@@ -1,0 +1,27 @@
+{
+  "name": "swiggy-clone-",
+  "version": "1.0.0",
+  "description": "Made a Complete Frontend Swiggy Clone Application",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhsihekkaul/Swiggy-Clone-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhsihekkaul/Swiggy-Clone-/issues"
+  },
+  "homepage": "https://github.com/Abhsihekkaul/Swiggy-Clone-#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
